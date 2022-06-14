@@ -1,0 +1,91 @@
+{
+"GET_signle_question": {
+    "question_id": 1,
+    "group_question_id": "KT",
+    "name": "Kỹ thuật",
+    "test_id": 1,
+    "image_title": null,
+    "title": "câu hỏi thứ 1",
+    "Options": [
+      {
+        "id": 1,
+        "title": "câu hỏi thứ 1",
+        "is_correct": 0
+      },
+      {
+        "id": 2,
+        "title": "câu hỏi thứ 2",
+        "is_correct": 0
+      },
+      {
+        "id": 3,
+        "title": "câu hỏi thứ 3",
+        "is_correct": 0
+      }
+    ]
+  },
+  "GET_signle_test_result_by_user_id": {
+    "user_id": 1,
+    "test_id": 5,
+    "test_name": "Nghiên cứu",
+    "score": 6,
+    "number_of_questions": 10
+  },
+  "GET_all_test_results_by_user_id": [
+    {
+      "user_id": 1,
+      "test_name": "Kỹ thuật",
+      "username": "user 1",
+      "score": 8,
+      "number_of_questions": 10,
+      "detail": "Yếu tố di truyền và kinh nghiệm của những cá nhân có nhóm sở thích về Kỹ thuật dẫn đến sự ưu tiên cho các hoạt động đòi hỏi thao tác với các đồ vật, công cụ, máy móc và động vật một cách rõ ràng, có trật tự hoặc có hệ thống. Nhóm này không có thiện cảm với các hoạt động giáo dục hoặc trị liệu. Những khuynh hướng hành vi này dẫn đến việc nổi trội ở các năng lực thủ công, cơ khí, nông nghiệp, điện và kỹ thuật và thiếu hụt các năng lực xã hội và giáo dục."
+    },
+    {
+      "user_id": 1,
+      "test_name": "Nghiệp vụ",
+      "username": "user 1",
+      "score": 7,
+      "number_of_questions": 10,
+      "detail": "Yếu tố di truyền và kinh nghiệm của những cá nhân có nhóm sở thích về Kỹ thuật dẫn đến sự ưu tiên cho các hoạt động đòi hỏi thao tác với các đồ vật, công cụ, máy móc và động vật một cách rõ ràng, có trật tự hoặc có hệ thống. Nhóm này không có thiện cảm với các hoạt động giáo dục hoặc trị liệu. Những khuynh hướng hành vi này dẫn đến việc nổi trội ở các năng lực thủ công, cơ khí, nông nghiệp, điện và kỹ thuật và thiếu hụt các năng lực xã hội và giáo dục."
+    },
+    {
+      "user_id": 1,
+      "test_name": "Quản lý",
+      "username": "user 1",
+      "score": 10,
+      "number_of_questions": 10,
+      "detail": "Yếu tố di truyền và kinh nghiệm của những cá nhân có nhóm sở thích về Kỹ thuật dẫn đến sự ưu tiên cho các hoạt động đòi hỏi thao tác với các đồ vật, công cụ, máy móc và động vật một cách rõ ràng, có trật tự hoặc có hệ thống. Nhóm này không có thiện cảm với các hoạt động giáo dục hoặc trị liệu. Những khuynh hướng hành vi này dẫn đến việc nổi trội ở các năng lực thủ công, cơ khí, nông nghiệp, điện và kỹ thuật và thiếu hụt các năng lực xã hội và giáo dục."
+    },
+    {
+      "user_id": 1,
+      "test_name": "Xã hội",
+      "username": "user 1",
+      "score": 5,
+      "number_of_questions": 10,
+      "detail": "Yếu tố di truyền và kinh nghiệm của những cá nhân có nhóm sở thích về Kỹ thuật dẫn đến sự ưu tiên cho các hoạt động đòi hỏi thao tác với các đồ vật, công cụ, máy móc và động vật một cách rõ ràng, có trật tự hoặc có hệ thống. Nhóm này không có thiện cảm với các hoạt động giáo dục hoặc trị liệu. Những khuynh hướng hành vi này dẫn đến việc nổi trội ở các năng lực thủ công, cơ khí, nông nghiệp, điện và kỹ thuật và thiếu hụt các năng lực xã hội và giáo dục."
+    },
+    {
+      "user_id": 1,
+      "test_name": "Nghiên cứu",
+      "username": "user 1",
+      "score": 6,
+      "number_of_questions": 10,
+      "detail": "Yếu tố di truyền và kinh nghiệm của những cá nhân có nhóm sở thích về Kỹ thuật dẫn đến sự ưu tiên cho các hoạt động đòi hỏi thao tác với các đồ vật, công cụ, máy móc và động vật một cách rõ ràng, có trật tự hoặc có hệ thống. Nhóm này không có thiện cảm với các hoạt động giáo dục hoặc trị liệu. Những khuynh hướng hành vi này dẫn đến việc nổi trội ở các năng lực thủ công, cơ khí, nông nghiệp, điện và kỹ thuật và thiếu hụt các năng lực xã hội và giáo dục."
+    },
+    {
+      "user_id": 1,
+      "test_name": "Nghệ thuật",
+      "username": "user 1",
+      "score": 9,
+      "number_of_questions": 10,
+      "detail": "Yếu tố di truyền và kinh nghiệm của những cá nhân có nhóm sở thích về Kỹ thuật dẫn đến sự ưu tiên cho các hoạt động đòi hỏi thao tác với các đồ vật, công cụ, máy móc và động vật một cách rõ ràng, có trật tự hoặc có hệ thống. Nhóm này không có thiện cảm với các hoạt động giáo dục hoặc trị liệu. Những khuynh hướng hành vi này dẫn đến việc nổi trội ở các năng lực thủ công, cơ khí, nông nghiệp, điện và kỹ thuật và thiếu hụt các năng lực xã hội và giáo dục."
+    }
+  ],
+  "GET_number_of_test_for_user": [
+    {
+      "user_id": 1,
+      "username": "user 1",
+      "number_of_test": 6
+    }
+  ]
+  }
