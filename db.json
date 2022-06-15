@@ -82,7 +82,7 @@
     }
   ]},
   "GET_number_of_test_for_user": [
-    {
+    "data":{
       "user_id": 1,
       "username": "user 1",
       "number_of_test": 6
