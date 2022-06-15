@@ -81,11 +81,10 @@
       "detail": "Yếu tố di truyền và kinh nghiệm của những cá nhân có nhóm sở thích về Kỹ thuật dẫn đến sự ưu tiên cho các hoạt động đòi hỏi thao tác với các đồ vật, công cụ, máy móc và động vật một cách rõ ràng, có trật tự hoặc có hệ thống. Nhóm này không có thiện cảm với các hoạt động giáo dục hoặc trị liệu. Những khuynh hướng hành vi này dẫn đến việc nổi trội ở các năng lực thủ công, cơ khí, nông nghiệp, điện và kỹ thuật và thiếu hụt các năng lực xã hội và giáo dục."
     }
   ]},
-  "GET_number_of_test_for_user": [
-    "data":{
+  "GET_number_of_test_for_user": 
+    {
       "user_id": 1,
       "username": "user 1",
       "number_of_test": 6
     }
-  ]
   }
