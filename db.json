@@ -24,7 +24,7 @@
       }
     ]
   },
-  "GET_signle_test_result_by_user_id": {
+  "GET_single_test_result_by_user_id": {
     "user_id": 1,
     "test_id": 5,
     "test_name": "Nghiên cứu",
